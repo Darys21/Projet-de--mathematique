@@ -33,4 +33,4 @@ Ces tests sont disponibles dans le fichier `test_projet_dit.py`.
 ANGUILET Joan-Yves Darys
 Étudiant en Master à Dakar Institute of Technologies (DIT)
 Promotion Master Janvier 2024
-GitHub
+GitHub @Darys21
